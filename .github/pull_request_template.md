@@ -2,7 +2,7 @@
 
 
 
-## Quais tecnologias,libs foram utilizadas
+## Quais tecnologias,libs que foram utilizadas
 
 ## Checklist
 - [ ]  Foi feita **autenticação por JWT**
